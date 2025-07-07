@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # proyecto1_grid
 Practicing with grid and responsive design (HTML and CSS)
 =======
@@ -99,4 +98,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
->>>>>>> First commit
